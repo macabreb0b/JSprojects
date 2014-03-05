@@ -1,0 +1,1 @@
+var hanoi = require('./hanoi.js');
